@@ -1,3 +1,3 @@
 # Hello
 
-I just want to test if my gpg key works
+I just want to test if my gpg key works. I've forgot to use the flag...
